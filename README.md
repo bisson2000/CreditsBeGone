@@ -2,6 +2,9 @@
 Where can I find and download the mod?
 =======
 
+You can find the mod on curseforge:
+https://www.curseforge.com/minecraft/mc-mods/credits-be-gone
+
 Dependencies:
 =======
 This mod depends on https://www.curseforge.com/minecraft/mc-mods/custom-portal-api-reforged
